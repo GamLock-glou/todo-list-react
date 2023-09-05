@@ -1,0 +1,24 @@
+.container {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 12px;
+  font-weight: 600;
+  opacity: 0.5;
+  margin-top: 5px;
+}
+
+.btn {
+  border: 1px solid transparent;
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.btn:hover {
+  border-bottom: 2px solid rgb(212, 212, 212);
+}
+
+.wrapper {
+  display: flex;
+}

@@ -1,0 +1,14 @@
+.container {
+  margin-right: 5px;
+  border: 2px solid transparent;
+  padding: 2px;
+  cursor: pointer;
+}
+
+.activeContainer {
+  border: 2px solid rgb(212, 212, 212);
+}
+
+.container:last-child {
+  margin: 0px;
+}

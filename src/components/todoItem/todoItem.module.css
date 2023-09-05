@@ -1,0 +1,28 @@
+.wrapperCheckBox {
+  display: flex;
+  align-items: center;
+}
+
+.checkBox {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  border: 1px solid rgb(212, 212, 212);
+  margin-right: 5px;
+  color: green;
+}
+
+.text {
+  text-decoration: line-through;
+  color: rgb(212, 212, 212);
+
+}
+
+.line {
+  width: 100%;
+  border: 1px solid rgb(212, 212, 212);
+  margin: 5px 0px;
+}
